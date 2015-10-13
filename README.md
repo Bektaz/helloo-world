@@ -5,4 +5,4 @@ The very first step
 
 Hello everybody!
 
-I am Bereket, I starting to learn real coding! Cool!
+I am Bereket, I am a javascript coder and web developer! Cool!
